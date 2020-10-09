@@ -1,2 +1,2 @@
-# Git_tutorial
+# gittut
 Git and github tutorial.
